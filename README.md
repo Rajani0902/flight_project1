@@ -32,6 +32,6 @@ Rajani : Flight Analysis
 Mike: Weather Impact Analysis
 Mandeep: Popular Destinations
 
-**Acknowledgments**
+**Datafiles**
 Amadeus API for providing flight data.
 Weather API for weather data
